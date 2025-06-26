@@ -6,13 +6,6 @@
 
 ---
 
-## 🌐 Live Preview
-
-> ⚡ Coming Soon — stay tuned for deployment at:  
-> [https://artisanchain.io/dao](https://artisanchain.io/dao)
-
----
-
 ## 🎨 DAO UI Highlights
 
 - 🌈 **Color Theme**: Deep red, electric blue, black accents.
